@@ -1,5 +1,5 @@
-# desafio-dio-CODEGIRLS
+# desafio-dio
 
 *Olá esse é o meu repositório*
 
-Um repositório com o objetivo de mostrar minha evolução no bootcamp "CodeGirls" da Universidade Santander juntamente com a plataforma DIO!
+Um repositório com o objetivo de mostrar minha evolução nqs bootcamps da plataforma DIO!
